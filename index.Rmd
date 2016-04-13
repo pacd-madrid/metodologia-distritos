@@ -1,0 +1,55 @@
+---
+title: Presentación PACD
+author: 
+mode : selfcontained
+framework: revealjs
+revealjs: {theme: black, transition: convex, center: "true"}
+# url: {lib: "."}
+ext_widgets: {rCharts: [libraries/nvd3, libraries/leaflet]}
+knit        : slidify::knit2slides
+#hitheme : zenburn
+# bootstrap: {theme: amelia}
+# navbar:
+#   title: Slidify
+#   items: 
+#     - {item: Home, href: index,  icon: home}
+#     - {item: "Start", href: start, icon: signin}
+#     - {item: Author, href: about, icon: pencil}
+#     - {item: Style, href: style, icon: hand-right, class: dropdown, 
+#         dropdown: true, menu: [
+#          {item: io2012, href: 'samples/intro'},
+#          {item: deck.js, href: 'samples/deck.js'},
+#          {item: shower, href: 'samples/shower'},
+#          {item: landslide, href: 'samples/landslide'}
+#         ]
+#       }
+#     - {item: Customize, href: customize, icon: gift}
+#     - {item: Extend, href: extend, icon: cogs}
+#     - {item: Publish, href: publish, icon: github}
+---
+
+```{r echo=F}
+require(knitr)
+require(rCharts)
+require(htmlwidgets)
+require(htmlTable)
+knitr::opts_chunk$set(comment=NA, results='asis', tidy=F, message=T, cache=F, echo=F)
+options(RCHART_WIDTH=800, RCHART_HEIGHT=400, xtable.type='html')
+```
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+<img src="assets/img/logos/logo_pacd_1200.png" alt="Plataforma Auditoría Ciudadana de la Deuda" width="800px">
+
+http://auditoriaciudadana.net  
+[@AuditoriaMadrid](https://twitter.com/AuditoriaMadrid)
+
+---
+
+## Metodología para la Auditoría Ciudadana en los Distritos
+
+<object data="assets/img/esquema_auditoria_distritos2.svg" type="image/svg+xml">
+
+
+
+
