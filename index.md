@@ -1,5 +1,5 @@
 ---
-title: Presentación PACD
+title: Metodología para la Auditoría Ciudadana de la Deuda en los distritos
 author: 
 mode : selfcontained
 framework: revealjs
@@ -37,12 +37,24 @@ knit        : slidify::knit2slides
 http://auditoriaciudadana.net  
 [@AuditoriaMadrid](https://twitter.com/AuditoriaMadrid)
 
+--- 
+
+## Auditoría Ciudadana de los Distritos
+
+<img src="assets/img/logos/madrid_audita_madrid.jpg" alt="Logo Madrid Audita Madrid" width="1000px">
+
 ---
 
-## Metodología para la Auditoría Ciudadana en los Distritos
+## Metodología para los Distritos
 
-<object data="assets/img/esquema_auditoria_distritos2.svg" type="image/svg+xml">
+<embed src="assets/img/esquema_auditoria_distritos.svg" width="800px">
 
+--- 
 
+## Creación del grupo promotor
 
+El grupo promotor será el encargado de promover y dirigir la Auditoría Ciudadana en el distrito.
 
+---
+
+## Definición de criterios de ilegitimidad

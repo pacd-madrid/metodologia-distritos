@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
-  <!--Created by yEd 3.14.3-->
+  <!--Created by yEd 3.14.4-->
   <key attr.name="Description" attr.type="string" for="graph" id="d0"/>
   <key for="port" id="d1" yfiles.type="portgraphics"/>
   <key for="port" id="d2" yfiles.type="portgeometry"/>
@@ -15,7 +15,6 @@
   <graph edgedefault="directed" id="G">
     <data key="d0"/>
     <node id="n0">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="402.5741496598639" width="290.3863945578231" x="494.8362811791382" y="265.7693877551022"/>
@@ -33,8 +32,7 @@
       </data>
     </node>
     <node id="n1">
-      <data key="d4"><![CDATA[http://pacd-madrid.github.io/presentacion-pacd]]></data>
-      <data key="d5"><![CDATA[Creación de un grupo presencial de vecinos y asociaciones del distrito con reuniones presenciales periódicas.]]></data>
+      <data key="d4"><![CDATA[http://pacd-madrid.github.io/metodologia-distritos/index.html#/slide-4]]></data>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="38.5126953125" width="217.765625" x="164.45263671875" y="140.74365234375"/>
@@ -54,6 +52,7 @@
       </data>
     </node>
     <node id="n2">
+      <data key="d4"><![CDATA[http://pacd-madrid.github.io/metodologia-distritos/index.html#/slide-6]]></data>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="38.5126953125" width="372.435546875" x="87.11767578125" y="300.74365234375"/>
@@ -65,6 +64,7 @@
       </data>
     </node>
     <node id="n3">
+      <data key="d4"><![CDATA[http://pacd-madrid.github.io/metodologia-distritos/index.html#/slide-5]]></data>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="38.5126953125" width="278.3837890625" x="134.1435546875" y="220.74365234375"/>
@@ -76,6 +76,7 @@
       </data>
     </node>
     <node id="n4">
+      <data key="d4"><![CDATA[http://pacd-madrid.github.io/metodologia-distritos/index.html#/slide-7]]></data>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="38.5126953125" width="209.9873046875" x="168.341796875" y="380.74365234375"/>
@@ -87,6 +88,7 @@
       </data>
     </node>
     <node id="n5">
+      <data key="d4"><![CDATA[http://pacd-madrid.github.io/metodologia-distritos/index.html#/slide-8]]></data>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="38.5126953125" width="131.1669921875" x="207.751953125" y="460.74365234375"/>
@@ -109,6 +111,7 @@
       </data>
     </node>
     <node id="n7">
+      <data key="d4"><![CDATA[http://pacd-madrid.github.io/metodologia-distritos/index.html#/slide-9]]></data>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="38.5126953125" width="248.158203125" x="149.25634765625" y="540.74365234375"/>
@@ -120,6 +123,7 @@
       </data>
     </node>
     <node id="n8">
+      <data key="d4"><![CDATA[http://pacd-madrid.github.io/metodologia-distritos/index.html#/slide-10]]></data>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="38.5126953125" width="385.77734375" x="80.44677734375" y="620.74365234375"/>
@@ -207,11 +211,34 @@
         </y:ShapeNode>
       </data>
     </node>
+    <node id="n16">
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="38.5126953125" width="182.5478515625" x="-171.27392578125" y="700.74365234375"/>
+          <y:Fill color="#99CCFF" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Open Sans Condensed" fontSize="18" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.5126953125" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="172.5478515625" x="5.0" y="5.0">Presión para el No Pago</y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="n17">
+      <data key="d4"><![CDATA[http://pacd-madrid.github.io/metodologia-distritos/index.html#/slide-11]]></data>
+      <data key="d6">
+        <y:ShapeNode>
+          <y:Geometry height="38.5126953125" width="291.1806640625" x="127.7451171875" y="700.74365234375"/>
+          <y:Fill color="#99CCFF" transparent="false"/>
+          <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Open Sans Condensed" fontSize="18" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.5126953125" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="281.1806640625" x="5.0" y="5.0">Extensión a otros distritos y municipios</y:NodeLabel>
+          <y:Shape type="roundrectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
     <edge id="e0" source="n1" target="n3">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#3366FF" type="line" width="1.0"/>
+          <y:LineStyle color="#FFFF99" type="line" width="1.0"/>
           <y:Arrows source="circle" target="delta"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
@@ -221,7 +248,7 @@
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#3366FF" type="line" width="1.0"/>
+          <y:LineStyle color="#FFFF99" type="line" width="1.0"/>
           <y:Arrows source="circle" target="delta"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
@@ -231,7 +258,7 @@
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#3366FF" type="line" width="1.0"/>
+          <y:LineStyle color="#FFFF99" type="line" width="1.0"/>
           <y:Arrows source="circle" target="delta"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
@@ -241,7 +268,7 @@
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#3366FF" type="line" width="1.0"/>
+          <y:LineStyle color="#FFFF99" type="line" width="1.0"/>
           <y:Arrows source="circle" target="delta"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
@@ -251,7 +278,7 @@
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#3366FF" type="line" width="1.0"/>
+          <y:LineStyle color="#FFFF99" type="line" width="1.0"/>
           <y:Arrows source="circle" target="delta"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
@@ -261,7 +288,7 @@
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#3366FF" type="line" width="1.0"/>
+          <y:LineStyle color="#FFFF99" type="line" width="1.0"/>
           <y:Arrows source="circle" target="delta"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
@@ -271,7 +298,7 @@
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#3366FF" type="line" width="1.0"/>
+          <y:LineStyle color="#FFFF99" type="line" width="1.0"/>
           <y:Arrows source="circle" target="delta"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
@@ -284,7 +311,7 @@
             <y:Point x="395.721435546875" y="320.0"/>
             <y:Point x="395.721435546875" y="319.9999999999998"/>
           </y:Path>
-          <y:LineStyle color="#3366FF" type="line" width="1.0"/>
+          <y:LineStyle color="#FFFF99" type="line" width="1.0"/>
           <y:Arrows source="circle" target="delta"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
@@ -297,7 +324,7 @@
             <y:Point x="395.721435546875" y="480.0"/>
             <y:Point x="395.721435546875" y="479.99999999999983"/>
           </y:Path>
-          <y:LineStyle color="#3366FF" type="line" width="1.0"/>
+          <y:LineStyle color="#FFFF99" type="line" width="1.0"/>
           <y:Arrows source="circle" target="delta"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
@@ -307,7 +334,7 @@
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#3366FF" type="line" width="1.0"/>
+          <y:LineStyle color="#FFFF99" type="line" width="1.0"/>
           <y:Arrows source="circle" target="delta"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
@@ -317,7 +344,7 @@
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#3366FF" type="line" width="1.0"/>
+          <y:LineStyle color="#FFFF99" type="line" width="1.0"/>
           <y:Arrows source="circle" target="delta"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
@@ -327,7 +354,47 @@
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-          <y:LineStyle color="#3366FF" type="line" width="1.0"/>
+          <y:LineStyle color="#FFFF99" type="line" width="1.0"/>
+          <y:Arrows source="circle" target="delta"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e12" source="n7" target="n14">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#FFFF99" type="line" width="1.0"/>
+          <y:Arrows source="circle" target="delta"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e13" source="n8" target="n15">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#FFFF99" type="line" width="1.0"/>
+          <y:Arrows source="circle" target="delta"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e14" source="n8" target="n17">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#FFFF99" type="line" width="1.0"/>
+          <y:Arrows source="circle" target="delta"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e15" source="n11" target="n16">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#FFFF99" type="line" width="1.0"/>
           <y:Arrows source="circle" target="delta"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
