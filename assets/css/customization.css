@@ -106,3 +106,10 @@ table.plain td{
 span.footnote {
     font-size: 50%;
 }
+
+/* CENTER */
+
+.reveal .center {
+    position: absolute;
+    margin: auto;
+}

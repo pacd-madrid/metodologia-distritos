@@ -54,7 +54,7 @@ http://auditoriaciudadana.net
 
 ## Metodología para los Distritos
 
-<embed src="assets/img/esquema_auditoria_distritos.svg" width="800px">
+<embed src="assets/img/esquema_auditoria_distritos.svg" height=800>
 
 --- 
 
