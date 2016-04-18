@@ -62,6 +62,105 @@ http://auditoriaciudadana.net
 
 El grupo promotor será el encargado de promover y dirigir la Auditoría Ciudadana en el distrito.
 
+```{r grupo_promotor, comment=NA, results='asis', tidy = F, message = F, echo = F}
+Tareas = c("Constituir el grupo promotor de la auditoría del distrito", "Formarse", "Comunicar a la junta distrital el comienzo de la auditoría")
+Herramientas  = c("Lista de correo<br/>Darse de alta en el <a href=\"https://madridauditamadrid.org\" target=\"_blank\">https://madridauditamadrid.org</a>", "Formación de la PACD: Auditorías Ciudadanas, Deuda Ilegítima, Presupuestos, Contratatación pública, etc.", "Correo de comunicación con la concejalía de distrito")
+data <- data.frame(Tareas,Herramientas)
+htmlTable(data, align="ll", rnames=FALSE, css.class="colortable")
+```
+
 ---
 
 ## Definición de criterios de ilegitimidad
+
+Los criterios de ilegitimidad orientarán la búsqueda de casos y en última instancia la declaración de gastos, ingresos o deuda ilegítimos. 
+Deben definirse por el grupo promotor.
+
+```{r criterios_ilegitimidad, comment=NA, results='asis', tidy = F, message = F, echo = F}
+Tareas = c("Consensuar unos criterios míninimos de ilegitimidad", "Comunicar los criterios adoptados a la PACD")
+Herramientas  = c("<a href=\"https://drive.google.com/file/d/0Bwg6TrKoFf05NkozZFJLLVptZ0U/view?usp=sharing\">Definición de ilegitimidad de la PACD</a><br/><a href=\"https://drive.google.com/file/d/0B4kxDAyPr3w9SnBKcjFoZXdta2M/view\">Conclusiones del I Encuentro ciudadano de la Auditoría del Ayuntamiento de Madrid</a>", "Correo de la PACD <a href=\"mailto:madridauditamadrid@gmail.com\" target=\"_blank\">madridauditamadrid@gmail.com</a>")
+data <- data.frame(Tareas,Herramientas)
+htmlTable(data, align="ll", rnames=FALSE, css.class="colortable")
+```
+
+---
+
+## Identificación de casos de presuntas ilegitimidades
+
+```{r identificacion_casos, comment=NA, results='asis', tidy = F, message = F, echo = F}
+Tareas = c("Identificar los casos de presunta iletimidad en el distrito", "Publicar los casos detectados", "Comunicar los casos detectados a la junta distrital y al Ayuntamiento")
+Herramientas  = c("Fichas de ilegitimidad de la PACD", "Blog <a href=\"https://madridauditamadrid.org\" target=\"_blank\">https://madridauditamadrid.org</a>", "Correos de comunicación con concejalía de distrito y el Ayuntamiento")
+data <- data.frame(Tareas,Herramientas)
+htmlTable(data, align="ll", rnames=FALSE, css.class="colortable")
+```
+
+
+---
+
+## Selección de casos a auditar
+
+Entre todos los casos de presuntas ilegitimidades detectados, el grupo promotor debe seleccionar aquellos que va a auditar. 
+
+Se recomienda empezar por un caso o dos de los más claros. 
+
+```{r seleccion_casos, comment=NA, results='asis', tidy = F, message = F, echo = F}
+Tareas = c("Seleccionar los casos a auditar", "Publicar los casos seleccionados")
+Herramientas  = c("Fichas de ilegitimidad de los casos identificados", "Blog <a href=\"https://madridauditamadrid.org\" target=\"_blank\">https://madridauditamadrid.org</a>")
+data <- data.frame(Tareas,Herramientas)
+htmlTable(data, align="ll", rnames=FALSE, css.class="colortable")
+```
+
+---
+
+## Análisis de casos
+
+```{r analisis_casos, comment=NA, results='asis', tidy = F, message = F, echo = F}
+Tareas = c("Recabar toda la información posible sobre el caso", "Contrastar los indicios de ilegitimidad con la información obtenida", "Publicación de hallazgos")
+Herramientas  = c("Formulario de consulta de la Dirección General de Auditoría<br/>Peticiones por registro municipal<br/>Filtraciones a través del blog <a href=\"https://madridauditamadrid.org\" target=\"_blank\">https://madridauditamadrid.org</a>", "Ficha de ilegitimidad del caso", "Blog <a href=\"https://madridauditamadrid.org\" target=\"_blank\">https://madridauditamadrid.org</a>" )
+data <- data.frame(Tareas,Herramientas)
+htmlTable(data, align="ll", rnames=FALSE, css.class="colortable")
+```
+
+---
+
+## Elaboración del informe de auditoría del caso
+
+El informe de auditoría del caso debe recopilar las principales pruebas para declarar un gasto, ingreso o deuda ilegítimos. 
+
+```{r informe_caso, comment=NA, results='asis', tidy = F, message = F, echo = F}
+Tareas = c("Elaborar un informe con las conclusiones de la auditoría del caso", "Enviar el informe al Ayuntamiento", "Publicar el informe de auditoría del caso")
+Herramientas  = c("Plantilla de informe de auditoría la PACD", "Correos de comunicación con concejalía de distrito y el Ayuntamiento", "Blog <a href=\"https://madridauditamadrid.org\" target=\"_blank\">https://madridauditamadrid.org</a>" )
+data <- data.frame(Tareas,Herramientas)
+htmlTable(data, align="ll", rnames=FALSE, css.class="colortable")
+```
+
+---
+
+## Elaboración del informe de auditoría del distrito
+
+El informe final debe incluir los informes de todos los casos auditados en el distrito y las conclusiones de la auditoría.
+
+```{r informe_distrito, comment=NA, results='asis', tidy = F, message = F, echo = F}
+Tareas = c("Elaborar un informe con las conclusiones de la auditoría del distrito", "Enviar el informe al Ayuntamiento y presionar para el no pago de la deuda ilegítima", "Publicar el informe de auditoría del distrito")
+Herramientas  = c("Plantilla de informe de auditoría la PACD", "Correos de comunicación con concejalía de distrito y el Ayuntamiento", "Blog <a href=\"https://madridauditamadrid.org\" target=\"_blank\">https://madridauditamadrid.org</a>" )
+data <- data.frame(Tareas,Herramientas)
+htmlTable(data, align="ll", rnames=FALSE, css.class="colortable")
+```
+
+---
+
+## Extensión a otros distritos
+
+```{r extension, comment=NA, results='asis', tidy = F, message = F, echo = F}
+Tareas = c("Comunicar la experiencia a otros distritos", "Formar a otros distritos", "Ayudar en los procesos de auditoría de otros distritos")
+Herramientas  = c("Blog <a href=\"https://madridauditamadrid.org\" target=\"_blank\">https://madridauditamadrid.org</a>", NA, NA )
+data <- data.frame(Tareas,Herramientas)
+htmlTable(data, align="ll", rnames=FALSE, css.class="colortable")
+```
+
+---
+
+## ¡Gracias por su atención!
+
+<img src="assets/img/nodebemos_nopagamos.jpg" alt="No debemos, no pagamos">
+

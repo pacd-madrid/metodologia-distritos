@@ -93,8 +93,9 @@ table.colortable tr:nth-child(even) {
 */
 
 table.colortable th{
-    font-weight: normal;
+    font-weight: 400;
     background-color: #333333;
+    text-shadow: none;
 }
 
 table.plain td{
@@ -105,11 +106,4 @@ table.plain td{
 
 span.footnote {
     font-size: 50%;
-}
-
-/* CENTER */
-
-.reveal .center {
-    position: absolute;
-    margin: auto;
 }
