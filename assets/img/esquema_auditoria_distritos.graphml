@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
-  <!--Created by yEd 3.14.4-->
+  <!--Created by yEd 3.17-->
   <key attr.name="Description" attr.type="string" for="graph" id="d0"/>
   <key for="port" id="d1" yfiles.type="portgraphics"/>
   <key for="port" id="d2" yfiles.type="portgeometry"/>
@@ -20,7 +20,7 @@
           <y:Geometry height="402.5741496598639" width="290.3863945578231" x="494.8362811791382" y="265.7693877551022"/>
           <y:Fill hasColor="false" transparent="false"/>
           <y:BorderStyle color="#FFFFFF" type="dashed" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Open Sans Condensed" fontSize="18" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.5126953125" modelName="custom" textColor="#FFFFFF" visible="true" width="62.0166015625" x="224.36979299532305" y="4.0">Difusión<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Helvetica-Normal" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.2470703125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#FFFFFF" verticalTextPosition="bottom" visible="true" width="61.9041748046875" x="224.48221975313555" y="4.0">Difusión<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -38,8 +38,8 @@
           <y:Geometry height="38.5126953125" width="217.765625" x="164.45263671875" y="140.74365234375"/>
           <y:Fill color="#99CCFF" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Open Sans Condensed" fontSize="18" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.5126953125" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="207.765625" x="5.0" y="5.0">Creación del grupo promotor</y:NodeLabel>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" textColor="#000000" visible="true" width="4.0" x="106.8828125" y="17.25634765625">
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Helvetica-Normal" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.2470703125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="207.9998779296875" x="4.88287353515625" y="9.1328125">Creación del grupo promotor</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="106.8828125" y="17.25634765625">
             <y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
@@ -58,7 +58,7 @@
           <y:Geometry height="38.5126953125" width="372.435546875" x="87.11767578125" y="300.74365234375"/>
           <y:Fill color="#99CCFF" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Open Sans Condensed" fontSize="18" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.5126953125" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="362.435546875" x="5.0" y="5.0">Identificación de casos de presuntas ilegitimidades</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Helvetica-Normal" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.2470703125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="365.0015869140625" x="3.71697998046875" y="9.1328125">Identificación de casos de presuntas ilegitimidades</y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -70,7 +70,7 @@
           <y:Geometry height="38.5126953125" width="278.3837890625" x="134.1435546875" y="220.74365234375"/>
           <y:Fill color="#99CCFF" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Open Sans Condensed" fontSize="18" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.5126953125" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="268.3837890625" x="5.0" y="5.0">Definición de criterios de ilegitimidad</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Helvetica-Normal" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.2470703125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="263.857177734375" x="7.2633056640625" y="9.1328125">Definición de criterios de ilegitimidad</y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -82,7 +82,7 @@
           <y:Geometry height="38.5126953125" width="209.9873046875" x="168.341796875" y="380.74365234375"/>
           <y:Fill color="#99CCFF" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Open Sans Condensed" fontSize="18" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.5126953125" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="199.9873046875" x="5.0" y="5.0">Selección de casos a auditar</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Helvetica-Normal" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.2470703125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="209.1192626953125" x="0.43402099609375" y="9.1328125">Selección de casos a auditar</y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -94,7 +94,7 @@
           <y:Geometry height="38.5126953125" width="131.1669921875" x="207.751953125" y="460.74365234375"/>
           <y:Fill color="#99CCFF" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Open Sans Condensed" fontSize="18" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.5126953125" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="121.1669921875" x="5.0" y="5.0">Análisis de casos</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Helvetica-Normal" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.2470703125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="128.0118408203125" x="1.57757568359375" y="9.1328125">Análisis de casos</y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -105,7 +105,7 @@
           <y:Geometry height="38.5126953125" width="236.57421875" x="-198.287109375" y="300.74365234375"/>
           <y:Fill color="#99CCFF" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Open Sans Condensed" fontSize="18" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.5126953125" modelName="internal" modelPosition="tl" textColor="#000000" visible="true" width="226.57421875" x="4.0" y="4.0">Envío de casos al ayuntamiento</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Helvetica-Normal" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.2470703125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#000000" verticalTextPosition="bottom" visible="true" width="231.427001953125" x="4.0" y="4.0">Envío de casos al ayuntamiento</y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -117,7 +117,7 @@
           <y:Geometry height="38.5126953125" width="248.158203125" x="149.25634765625" y="540.74365234375"/>
           <y:Fill color="#99CCFF" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Open Sans Condensed" fontSize="18" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.5126953125" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="238.158203125" x="5.0" y="5.0">Elaboración de informes de casos</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Helvetica-Normal" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.2470703125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="245.6431884765625" x="1.25750732421875" y="9.1328125">Elaboración de informes de casos</y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -129,7 +129,7 @@
           <y:Geometry height="38.5126953125" width="385.77734375" x="80.44677734375" y="620.74365234375"/>
           <y:Fill color="#99CCFF" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Open Sans Condensed" fontSize="18" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.5126953125" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="375.77734375" x="5.0" y="5.0">Elaboración de informe final de auditoría del distrito</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Helvetica-Normal" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.2470703125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="368.91943359375" x="8.428955078125" y="9.1328125">Elaboración de informe final de auditoría del distrito</y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -140,7 +140,7 @@
           <y:Geometry height="38.5126953125" width="203.650390625" x="-181.8251953125" y="460.74365234375"/>
           <y:Fill color="#99CCFF" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Open Sans Condensed" fontSize="18" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.5126953125" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="193.650390625" x="5.0" y="5.0">Consultas al Ayuntamiento</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Helvetica-Normal" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.2470703125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="194.7591552734375" x="4.44561767578125" y="9.1328125">Consultas al Ayuntamiento</y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -151,7 +151,7 @@
           <y:Geometry height="38.5126953125" width="171.18359375" x="-165.591796875" y="380.74365234375"/>
           <y:Fill color="#99CCFF" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Open Sans Condensed" fontSize="18" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.5126953125" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="161.18359375" x="5.0" y="5.0">Seguimiento y presión</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Helvetica-Normal" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.2470703125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="162.6488037109375" x="4.26739501953125" y="9.1328125">Seguimiento y presión</y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -162,7 +162,7 @@
           <y:Geometry height="38.5126953125" width="260.708984375" x="-210.3544921875" y="620.74365234375"/>
           <y:Fill color="#99CCFF" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Open Sans Condensed" fontSize="18" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.5126953125" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="250.708984375" x="5.0" y="5.0">Envío del informe al Ayuntamiento</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Helvetica-Normal" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.2470703125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="248.0418701171875" x="6.33355712890625" y="9.1328125">Envío del informe al Ayuntamiento</y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -173,7 +173,7 @@
           <y:Geometry height="38.5126953125" width="251.7265625" x="514.13671875" y="300.74365234375"/>
           <y:Fill color="#FF99CC" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Open Sans Condensed" fontSize="18" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.5126953125" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="241.7265625" x="5.0" y="5.0">Publicación de casos identificados</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Helvetica-Normal" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.2470703125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="248.377685546875" x="1.6744384765625" y="9.1328125">Publicación de casos identificados</y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -184,7 +184,7 @@
           <y:Geometry height="38.5126953125" width="192.7783203125" x="543.61083984375" y="460.74365234375"/>
           <y:Fill color="#FF99CC" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Open Sans Condensed" fontSize="18" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.5126953125" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="182.7783203125" x="5.0" y="5.0">Publicación de hallazagos</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Helvetica-Normal" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.2470703125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="189.56201171875" x="1.608154296875" y="9.1328125">Publicación de hallazagos</y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -195,7 +195,7 @@
           <y:Geometry height="38.5126953125" width="248.966796875" x="515.5166015625" y="540.74365234375"/>
           <y:Fill color="#FF99CC" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Open Sans Condensed" fontSize="18" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.5126953125" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="238.966796875" x="5.0" y="5.0">Publicación de informes parciales</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Helvetica-Normal" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.2470703125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="242.8447265625" x="3.06103515625" y="9.1328125">Publicación de informes parciales</y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -206,7 +206,7 @@
           <y:Geometry height="38.5126953125" width="263.78515625" x="508.107421875" y="620.74365234375"/>
           <y:Fill color="#FF99CC" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Open Sans Condensed" fontSize="18" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.5126953125" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="253.78515625" x="5.0" y="5.0">Publicación de informes del distrito</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Helvetica-Normal" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.2470703125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="251.5439453125" x="6.12060546875" y="9.1328125">Publicación de informes del distrito</y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -217,7 +217,7 @@
           <y:Geometry height="38.5126953125" width="182.5478515625" x="-171.27392578125" y="700.74365234375"/>
           <y:Fill color="#99CCFF" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Open Sans Condensed" fontSize="18" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.5126953125" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="172.5478515625" x="5.0" y="5.0">Presión para el No Pago</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Helvetica-Normal" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.2470703125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="178.6400146484375" x="1.95391845703125" y="9.1328125">Presión para el No Pago</y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
@@ -229,7 +229,7 @@
           <y:Geometry height="38.5126953125" width="291.1806640625" x="127.7451171875" y="700.74365234375"/>
           <y:Fill color="#99CCFF" transparent="false"/>
           <y:BorderStyle hasColor="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Open Sans Condensed" fontSize="18" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="28.5126953125" modelName="internal" modelPosition="c" textColor="#000000" visible="true" width="281.1806640625" x="5.0" y="5.0">Extensión a otros distritos y municipios</y:NodeLabel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Helvetica-Normal" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="20.2470703125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="280.1522216796875" x="5.51422119140625" y="9.1328125">Extensión a otros distritos y municipios</y:NodeLabel>
           <y:Shape type="roundrectangle"/>
         </y:ShapeNode>
       </data>
