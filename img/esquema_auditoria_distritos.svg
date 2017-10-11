@@ -28,7 +28,7 @@
       </g>
     </g>
     <g id="y.node.2">
-      <a target="_blank" xlink:type="simple" xlink:href="http://pacd-madrid.github.io/metodologia-distritos/index.html#/slide-4" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="../index.html#/3" xlink:show="new">
         <g fill="rgb(153,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1.1146,0,0,1.1146,256.3694,-150.4777)" stroke="rgb(153,204,255)">
           <rect x="174.1948" y="140.7437" width="198.2812" rx="4" ry="4" height="38.5127" stroke="none"/>
         </g>
@@ -41,7 +41,7 @@
       </a>
     </g>
     <g id="y.node.3">
-      <a target="_blank" xlink:type="simple" xlink:href="http://pacd-madrid.github.io/metodologia-distritos/index.html#/slide-6" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="../index.html#/6" xlink:show="new">
         <g fill="rgb(153,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1.1146,0,0,1.1146,256.3694,-150.4777)" stroke="rgb(153,204,255)">
           <rect x="196.4409" y="300.7437" width="153.7891" rx="4" ry="4" height="38.5127" stroke="none"/>
         </g>
@@ -53,7 +53,7 @@
       </a>
     </g>
     <g id="y.node.4">
-      <a target="_blank" xlink:type="simple" xlink:href="http://pacd-madrid.github.io/metodologia-distritos/index.html#/slide-5" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="../index.html#/5" xlink:show="new">
         <g fill="rgb(153,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1.1146,0,0,1.1146,256.3694,-150.4777)" stroke="rgb(153,204,255)">
           <rect x="156.1401" y="220.7437" width="234.3906" rx="4" ry="4" height="38.5127" stroke="none"/>
         </g>
@@ -65,7 +65,7 @@
       </a>
     </g>
     <g id="y.node.5">
-      <a target="_blank" xlink:type="simple" xlink:href="http://pacd-madrid.github.io/metodologia-distritos/index.html#/slide-7" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="../index.html#/7" xlink:show="new">
         <g fill="rgb(153,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1.1146,0,0,1.1146,256.3694,-150.4777)" stroke="rgb(153,204,255)">
           <rect x="182.6753" y="380.7437" width="181.3203" rx="4" ry="4" height="38.5127" stroke="none"/>
         </g>
@@ -77,7 +77,7 @@
       </a>
     </g>
     <g id="y.node.6">
-      <a target="_blank" xlink:type="simple" xlink:href="http://pacd-madrid.github.io/metodologia-distritos/index.html#/slide-8" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="../index.html#/8" xlink:show="new">
         <g fill="rgb(153,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1.1146,0,0,1.1146,256.3694,-150.4777)" stroke="rgb(153,204,255)">
           <rect x="217.4409" y="460.7437" width="111.7891" rx="4" ry="4" height="38.5127" stroke="none"/>
         </g>
@@ -99,7 +99,7 @@
       </g>
     </g>
     <g id="y.node.8">
-      <a target="_blank" xlink:type="simple" xlink:href="http://pacd-madrid.github.io/metodologia-distritos/index.html#/slide-9" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="../index.html#/9" xlink:show="new">
         <g fill="rgb(153,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1.1146,0,0,1.1146,256.3694,-150.4777)" stroke="rgb(153,204,255)">
           <rect x="175.269" y="540.7437" width="196.1328" rx="4" ry="4" height="38.5127" stroke="none"/>
         </g>
@@ -111,7 +111,7 @@
       </a>
     </g>
     <g id="y.node.9">
-      <a target="_blank" xlink:type="simple" xlink:href="http://pacd-madrid.github.io/metodologia-distritos/index.html#/slide-10" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="../index.html#/10" xlink:show="new">
         <g fill="rgb(153,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1.1146,0,0,1.1146,256.3694,-150.4777)" stroke="rgb(153,204,255)">
           <rect x="166.4565" y="620.7437" width="213.7578" rx="4" ry="4" height="38.5127" stroke="none"/>
         </g>
@@ -193,17 +193,19 @@
       </g>
     </g>
     <g id="y.node.17">
-      <g fill="rgb(102,255,204)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1.1146,0,0,1.1146,256.3694,-150.4777)" stroke="rgb(102,255,204)">
-        <rect x="-146.5273" y="700.7437" width="133.0547" rx="4" ry="4" height="38.5127" stroke="none"/>
-      </g>
-      <g>
-        <g font-size="16px" stroke-linecap="butt" transform="matrix(1.1146,0,0,1.1146,256.3694,-150.4777)" text-rendering="geometricPrecision" font-family="'Open Sans Light'" shape-rendering="geometricPrecision" stroke-miterlimit="1.45">
-          <text x="-139.5273" xml:space="preserve" y="726.207" stroke="none">Presión No Pago</text>
+      <a target="_blank" xlink:type="simple" xlink:href="../index.html#/12" xlink:show="new">
+        <g fill="rgb(102,255,204)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1.1146,0,0,1.1146,256.3694,-150.4777)" stroke="rgb(102,255,204)">
+          <rect x="-146.5273" y="700.7437" width="133.0547" rx="4" ry="4" height="38.5127" stroke="none"/>
         </g>
-      </g>
+        <g>
+          <g font-size="16px" stroke-linecap="butt" transform="matrix(1.1146,0,0,1.1146,256.3694,-150.4777)" text-rendering="geometricPrecision" font-family="'Open Sans Light'" shape-rendering="geometricPrecision" stroke-miterlimit="1.45">
+            <text x="-139.5273" xml:space="preserve" y="726.207" stroke="none">Presión No Pago</text>
+          </g>
+        </g>
+      </a>
     </g>
     <g id="y.node.18">
-      <a target="_blank" xlink:type="simple" xlink:href="http://pacd-madrid.github.io/metodologia-distritos/index.html#/slide-11" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="../index.html#/11" xlink:show="new">
         <g fill="rgb(153,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1.1146,0,0,1.1146,256.3694,-150.4777)" stroke="rgb(153,204,255)">
           <rect x="153.4058" y="700.7437" width="239.8594" rx="4" ry="4" height="38.5127" stroke="none"/>
         </g>
