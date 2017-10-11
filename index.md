@@ -27,7 +27,14 @@ http://auditoriaciudadana.net
 
 ## Metodología para los Distritos
 
-<embed src="img/esquema_auditoria_distritos.svg" height=800>
+<object type="image/svg+xml" data="img/esquema_auditoria_distritos.svg" style="height:700px">
+</object>
+
+----
+
+### Metodología de las Mesas de Auditoría de los Foros Locales
+
+[<img src="img/metodologia-mesas-auditoria.jpg" alt="Metodología de las mesas de auditoría de los Foros locales de Madrid" style="height:500px">](doc/metodologia-mesas-auditoria.pdf)
 
 ---
 
@@ -169,7 +176,8 @@ Deben definirse por el grupo promotor y someterse a debate por la población.
 <tbody>
 <tr>
 <td style='text-align: left;'>Identificar los casos de presunta ilegitimidad en el distrito</td>
-<td style='text-align: left;'>[Ficha de ilegitimidad de la PACD](https://docs.google.com/forms/d/e/1FAIpQLSfxm74mv1k-UCMeyPF13vWlyX19O02hbgMhvCWSDrof6FzZ4A/viewform)</td>
+<td style='text-align: left;'>[Ficha de ilegitimidad de la PACD](https://docs.google.com/forms/d/e/1FAIpQLSfxm74mv1k-UCMeyPF13vWlyX19O02hbgMhvCWSDrof6FzZ4A/viewform)<br/>
+[Cuestionario de malas prácticas](doc/cuestionario-malas-practicas.pdf)</td>
 </tr>
 <tr>
 <td style='text-align: left;'>Publicar los casos detectados</td>
